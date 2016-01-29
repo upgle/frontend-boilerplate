@@ -1,0 +1,14 @@
+{
+  "name": "frontend-boilerplate",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seonghyun, Oh <admin@upgle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "laravel-elixir": "^4.2.0"
+  }
+}
